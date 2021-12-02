@@ -1,4 +1,5 @@
 ## Oi, me chamo Tawane 👋
+###### _English version bellow_
 ### Bem-vinde ao meu perfil no GitHub
 
 Eu sou _oceanógrafa_ e mestre em sistemas costeiros e oceânicos, ambos pela UFPR.
@@ -7,8 +8,16 @@ Atualmente estou cursando o MBA em __Data Science & Analytics__ na USP.
 Ao longo da minha graduação e mestrado, trabalhei com ecologia populacional e espacial, movimento e comportamento de tartarugas marinhas.
 Durante minhas pesquisas descobri o meu fascínio pelo mundo dos dados e resolvi mergulhar de cabeça nessa área.
 
-### Tecnologias e Ferramentas
+### _Welcome to my GitHub profile_
+_I'm an oceanographer and MSc in coastal and oceanic systems from Federal University of Paraná State. Currently I'm a MBA student in Data Science and Analytics at University of São Paulo._
+
+_During my graduation, I worked with population and spatial ecology, movement and behavior of sea turtles. While developing my research I discovered the fascination with the data world and decided to deep dive into this area._
+
+### Tecnologias e Ferramentas / _Technologies and Tools_
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="37" height="37"/>
+
+### Aprendendo / _Learning_
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
  
 ### Contatos:
 
