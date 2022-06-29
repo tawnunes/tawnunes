@@ -16,8 +16,6 @@ _During my graduation, I worked with population and spatial ecology, movement an
 ### Tecnologias e Ferramentas / _Technologies and Tools_
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="37" height="37"/>
 
-### Aprendendo / _Learning_
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
  
 ### Contatos:
 
