@@ -11,7 +11,7 @@ Durante minhas pesquisas descobri o meu fascínio pela ecologia marinha e ciênc
 ### _Welcome to my GitHub profile_
 _I'm an oceanographer and MSc in coastal and oceanic systems from Federal University of Paraná State. Currently I'm a MBA student in Data Science and Analytics at University of São Paulo._
 
-_During my graduation, I worked with population and spatial ecology, movement and behavior of sea turtles. While developing my research I discovered the fascination with the marine ecology and data science, so I decided to deep dive into this area._
+_During my graduation, I worked with population and spatial ecology, movement and behavior of sea turtles. While developing my research I discovered the fascination with marine ecology and data science, so I decided to deep dive into this area._
 
 ### Tecnologias e Ferramentas / _Technologies and Tools_
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" width="37" height="37"/>
